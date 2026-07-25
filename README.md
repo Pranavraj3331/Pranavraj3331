@@ -1,16 +1,17 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4F46E5,100:06B6D4&height=220&section=header&text=Hi%20There!%20👋&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=I'm%20Pranavraj%20|%20M.Tech%20CSE%20Student&descAlignY=55"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4F46E5,100:06B6D4&height=220&section=header&text=Hello%20There!%20👋&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=I'm%20Pranavraj%20|%20M.Tech%20CSE%20Student&descAlignY=55"/>
 </p>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%91%8B+I'm+Pranavraj;M.Tech+Computer+Science+Engineering+Student;Software+Developer;AI+%7C+Cloud+%7C+Full+Stack;Welcome+to+my+GitHub!" alt="Typing SVG" />
 </p>
 
+<!--
 <p align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3500&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Building+Software+Solutions;Learning+AI+%26+Cloud;Exploring+Data+Analytics;Always+Learning+🚀"/>
 </p>
-
+-->
 ---
 
 # 👨‍💻 About Me
