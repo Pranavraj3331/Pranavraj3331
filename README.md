@@ -4,18 +4,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=M.Tech+Computer+Science+Engineering+Student;Software+Developer;AI+%7C+Cloud+%7C+Full+Stack+Developer;Always+Learning+New+Technologies;Welcome+to+my+GitHub+Profile!+👋" alt="Typing SVG" />
-</p>
-
-<h1 align="center">Hi 👋, I'm Pranavraj</h1>
-
-<h3 align="center">
-M.Tech Computer Science Engineering Student <br>
-Software Developer • AI • Full Stack • Aerospace
-</h3>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%91%8B+I'm+Pranav;M.Tech+Computer+Science+Engineering+Student;Software+Developer;AI+%7C+Cloud+%7C+Full+Stack;Welcome+to+my+GitHub!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%91%8B+I'm+Pranavraj;M.Tech+Computer+Science+Engineering+Student;Software+Developer;AI+%7C+Cloud+%7C+Full+Stack;Welcome+to+my+GitHub!" alt="Typing SVG" />
 </p>
 
 <p align="center">
