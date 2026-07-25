@@ -3,11 +3,11 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4F46E5,100:06B6D4&height=220&section=header&text=Hi%20There!%20👋&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=I'm%20Pranav%20|%20M.Tech%20CSE%20Student&descAlignY=55"/>
 </p>
 
-<h1 align="center">Hi 👋, I'm Pranav</h1>
+<h1 align="center">Hi 👋, I'm Pranavraj</h1>
 
 <h3 align="center">
 M.Tech Computer Science Engineering Student <br>
-Software Developer • AI • Cloud • Full Stack • Aerospace
+Software Developer • AI • Full Stack • Aerospace
 </h3>
 
 <p align="center">
@@ -54,7 +54,7 @@ Software Developer • AI • Cloud • Full Stack • Aerospace
 | ☁️ Project 4 | Cloud Computing Project |
 
 ---
-
+<!--
 # 📊 GitHub Stats
 
 <p align="center">
@@ -66,6 +66,7 @@ Software Developer • AI • Cloud • Full Stack • Aerospace
 </p>
 
 ---
+-->
 
 # 🔥 GitHub Streak
 
