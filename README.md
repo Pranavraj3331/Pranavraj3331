@@ -11,6 +11,10 @@ Software Developer • AI • Full Stack • Aerospace
 </h3>
 
 <p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=3500&pause=1200&color=7AA2F7&center=true&vCenter=true&multiline=true&repeat=true&width=900&height=120&lines=Hi+👋+I'm+Pranav;M.Tech+Computer+Science+Engineering+Student;Software+Developer+%7C+AI+%7C+Cloud+%7C+Full+Stack;Welcome+to+my+GitHub!" alt="Typing Animation" />
+</p>
+
+<p align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3500&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Building+Software+Solutions;Learning+AI+%26+Cloud;Exploring+Data+Analytics;Always+Learning+🚀"/>
 </p>
 
@@ -125,7 +129,7 @@ Software Developer • AI • Full Stack • Aerospace
 
 <p align="center">
 
-![](https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge)
+![](https://komarev.com/ghpvc/?username=Pranavraj3331&style=for-the-badge)
 
 </p>
 
