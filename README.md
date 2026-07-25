@@ -50,8 +50,7 @@ Software Developer • AI • Full Stack • Aerospace
 |----------|-------------|
 | 🌐 Project 1 | Full Stack Web Application |
 | 🤖 Project 2 | AI / ML Project |
-| 📊 Project 3 | Data Analytics Dashboard |
-| ☁️ Project 4 | Cloud Computing Project |
+
 
 ---
 <!--
