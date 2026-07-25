@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4F46E5,100:06B6D4&height=220&section=header&text=Hi%20There!%20👋&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=I'm%20Pranav%20|%20M.Tech%20CSE%20Student&descAlignY=55"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4F46E5,100:06B6D4&height=220&section=header&text=Hi%20There!%20👋&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=I'm%20Pranavraj%20|%20M.Tech%20CSE%20Student&descAlignY=55"/>
 </p>
 
 <h1 align="center">Hi 👋, I'm Pranavraj</h1>
@@ -86,7 +86,7 @@ Software Developer • AI • Full Stack • Aerospace
 </p>
 
 ---
-
+<!--
 # 🏆 GitHub Trophies
 
 <p align="center">
@@ -95,14 +95,13 @@ Software Developer • AI • Full Stack • Aerospace
 
 </p>
 
----
+--->
 
 # 🌱 Currently Learning
 
 - Artificial Intelligence
 - Machine Learning
 - Cloud Computing (Azure)
-- Docker
 - Data Analytics
 - System Design
 
@@ -111,12 +110,12 @@ Software Developer • AI • Full Stack • Aerospace
 # 📫 Connect With Me
 
 <p align="center">
-
+<!--
 <a href="https://linkedin.com/in/YOUR_LINKEDIN">
 <img src="https://skillicons.dev/icons?i=linkedin"/>
 </a>
-
-<a href="mailto:YOUR_EMAIL">
+-->
+<a href="mailto:pranav333raj@gmail.com">
 <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
