@@ -6,18 +6,6 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%91%8B+I'm+Pranavraj;M.Tech+Computer+Science+Engineering+Student;Software+Developer;AI+%7C+Cloud+%7C+Full+Stack;Welcome+to+my+GitHub!" alt="Typing SVG" />
 </p>
-----
-<p align="center">
-<img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:00F5FF,100:8A2BE2&height=250&section=header&text=PRANAV&fontSize=70&fontColor=ffffff&animation=blinking"/>
-</p>
-
-<p align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:0f0f0f&height=250&text=Pranav&fontColor=00FF41&fontSize=65"/>
-</p>
-
-<p align="center">
-<img src="https://capsule-render.vercel.app/api?type=rounded&height=250&color=0:4F46E5,50:3B82F6,100:06B6D4&text=Pranav&fontColor=ffffff&fontSize=70"/>
-</p>
 
 <!--
 <p align="center">
