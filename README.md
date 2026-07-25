@@ -3,16 +3,16 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4F46E5,100:06B6D4&height=220&section=header&text=Hi%20There!%20👋&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=I'm%20Pranavraj%20|%20M.Tech%20CSE%20Student&descAlignY=55"/>
 </p>
 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=M.Tech+Computer+Science+Engineering+Student;Software+Developer;AI+%7C+Cloud+%7C+Full+Stack+Developer;Always+Learning+New+Technologies;Welcome+to+my+GitHub+Profile!+👋" alt="Typing SVG" />
+</p>
+
 <h1 align="center">Hi 👋, I'm Pranavraj</h1>
 
 <h3 align="center">
 M.Tech Computer Science Engineering Student <br>
 Software Developer • AI • Full Stack • Aerospace
 </h3>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=3500&pause=1200&color=7AA2F7&center=true&vCenter=true&multiline=true&repeat=true&width=900&height=120&lines=Hi+👋+I'm+Pranav;M.Tech+Computer+Science+Engineering+Student;Software+Developer+%7C+AI+%7C+Cloud+%7C+Full+Stack;Welcome+to+my+GitHub!" alt="Typing Animation" />
-</p>
 
 <p align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3500&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Building+Software+Solutions;Learning+AI+%26+Cloud;Exploring+Data+Analytics;Always+Learning+🚀"/>
@@ -137,6 +137,6 @@ Software Developer • AI • Full Stack • Aerospace
 
 <p align="center">
 
-### ⭐ "Code. Learn. Build. Repeat."
+⭐ "Code. Learn. Build. Repeat."
 
 </p>
